@@ -10,3 +10,4 @@ dateEnd: "Current"
 - Developed a system to transfer Telegram bot messages to a web application, ensuring that messages are assigned to available operators. (Project is still in progress.)
 - Designed and implemented the entire backend of the Tedbook CRM project, focusing on optimizing the sales department’s workflow and monitoring performance.
 - A captive portal for Yaponamama, integrated with UniFi. Clients connect to Wi-Fi, enter their phone number, receive an OTP, and verify access. Data is stored in Redis, and internet access is granted based on OTP, SSID, and MAC address.
+- Developed a solution for automatic content generation by integrating Google Vision API for text recognition from images and ChatGPT for processing. Implemented a system of predefined prompts to generate detailed and structured descriptions. The project is optimized for e-commerce platforms, simplifying the creation of product titles and descriptions.
