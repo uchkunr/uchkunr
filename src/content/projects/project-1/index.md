@@ -6,4 +6,5 @@ date: "June 01 2023"
 
 Developed a Telegram bot for corporate clients to track the internet installation process.
 The bot sends 100+ notifications daily, maintains a history of each customer update, and provides a real-time monitoring dashboard.
+
 Tech stack: PHP/Laravel, Mysql

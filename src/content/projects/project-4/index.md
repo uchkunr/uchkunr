@@ -5,8 +5,91 @@ date: "Dec 01 2024"
 repoURL: https://github.com/uchkunrakhimow/vision-shop
 ---
 
-This project turned out to be a really interesting experience. I received a call where they explained that they run an online store, and three people are responsible for uploading products. Each product requires a title, description, and other details. They asked if this process could be automated.
+# VisionSHOP
 
-That’s when I came up with this project. It is now actively running, and I’ve decided to make it open-source, as there was no contractual obligation.
+AI-powered image analysis and product description generator for e-commerce platforms.
 
-Tech stack: Typescript
+## Features
+
+- Image analysis using Google Cloud Vision API
+- AI-generated product descriptions with OpenAI GPT
+- Multi-language support
+- Responsive design
+
+## Tech Stack
+
+- **Frontend**: React, TypeScript, Tailwind CSS
+- **Backend**: Express.js, Google Cloud Vision API, OpenAI API
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14+)
+- Google Cloud account with Vision API enabled
+- OpenAI API key
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/vision-shop.git
+cd vision-shop
+```
+
+2. Install dependencies:
+
+```bash
+# Backend
+cd server
+npm install
+
+# Frontend
+cd ../client
+npm install
+```
+
+3. Configure environment variables:
+   Create `.env` in the server directory:
+
+```
+PORT=5000
+GOOGLE_APPLICATION_CREDENTIALS=path/to/credentials.json
+OPENAI_API_KEY=your-openai-key
+```
+
+### Running the Application
+
+#### Development
+
+```bash
+# Backend
+cd server
+npm run dev
+
+# Frontend
+cd ../client
+npm run dev
+```
+
+#### Production
+
+```bash
+# Build frontend
+cd client
+npm run build
+
+# Build and start backend
+cd ../server
+npm run build
+npm start
+```
+
+## API Endpoints
+
+- `POST /api/images/process`: Process image and generate description
+
+## License
+
+MIT License
