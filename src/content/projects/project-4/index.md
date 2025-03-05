@@ -1,7 +1,7 @@
 ---
 title: "Vision shop"
 description: "AI-powered tool that analyzes product images using Google Vision API and generates optimized e-commerce descriptions with OpenAI GPT. Streamlines product listing creation for online stores."
-date: "Dec 2024 - Dec 2024"
+date: "Dec 01 2024"
 repoURL: https://github.com/uchkunrakhimow/vision-shop
 ---
 

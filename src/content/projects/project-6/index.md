@@ -1,7 +1,7 @@
 ---
 title: "Captive portal for Yaponamama (Private project)"
 description: "Project for managing UniFi network access through OTP verification. This project allows clients to access network resources after phone number verification."
-date: "Sep 2024 - Mar 2025"
+date: "June 01 2024"
 demoURL: https://wf.mikagroup.uz
 ---
 

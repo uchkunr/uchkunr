@@ -1,7 +1,7 @@
 ---
 title: "Smart schema validator"
 description: "A powerful TypeScript schema validation library with type inference, nested validation, and data transformation capabilities. Zero dependencies."
-date: "Aug 2024 - Present"
+date: "Aug 01 2024"
 repoURL: https://github.com/uchkunrakhimow/smart-schema-validator
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Tedbook CRM"
 description: "Digitalization of the sales department"
-date: "Dec 2024 - Dec 2024"
+date: "Sep 01 2024"
 repoURL: https://github.com/uchkunrakhimow/vision-shop
 ---
 
