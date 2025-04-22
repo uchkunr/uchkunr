@@ -1,39 +1,23 @@
-## Hey, I'm Uchkun Rakhimov
+### Hey, I'm Uchkun Rakhimov 👋
 
-```
-• Full-stack developer with a strong focus on Node.js + TypeScript
-• Experienced in JavaScript, Node.js, TypeScript, MongoDB
-• Currently building cool projects (some are still cookin’ 👨‍🍳)
-```
+### About me
 
-## Languages and Tools
+Software Engineer with 3+ years of experience in Node.js, TypeScript, and React development. Specialized in Asterisk phone system integrations, CRM/BPM solutions with Odoo and Jira, bot development using PHP/Laravel, and e-commerce UI optimization.
 
-### Languages
+👉 [Read my full bio](https://uchkunrakhimov.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,sass)](https://uchkunrakhimov.com)
+### Open Source Contributions
 
-### Frameworks & Libraries
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped): Enhanced type definitions for [@types/asterisk-manager](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982)
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,expressjs,react,vue,nextjs,redux,jest)](https://uchkunrakhimov.com)
+### Tech Stack
 
-### Development Tools
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,postman,bash,figma,webpack,babel,npm)](https://uchkunrakhimov.com)
-
-### Database & Storage
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase)](https://uchkunrakhimov.com)
-
-### Version Control & Collaboration
-
-[![My Skills](https://skillicons.dev/icons?i=gitlab,github,git,notion)](https://uchkunrakhimov.com)
-
-### DevOps & Deployment
-
-[![My Skills](https://skillicons.dev/icons?i=docker,gcp,heroku,netlify,vercel,nginx)](https://uchkunrakhimov.com)
-
-<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-FCDC00?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3078C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-60B148?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-58C4DC?logo=react&logoColor=black)
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/uchkunrakhimov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/uchkunrakhimov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:uchkunrakhimov@gmail.com)
