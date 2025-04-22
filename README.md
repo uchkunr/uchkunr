@@ -30,7 +30,7 @@
 
 ### DevOps & Deployment
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,heroku,netlify,vercel,kubernetes,nginx)](https://uchkunrakhimov.com)
+[![My Skills](https://skillicons.dev/icons?i=docker,gcp,heroku,netlify,vercel,nginx)](https://uchkunrakhimov.com)
 
 <br />
 
