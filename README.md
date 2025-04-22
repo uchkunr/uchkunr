@@ -4,8 +4,6 @@
 
 Software Engineer with 3+ years of experience in Node.js, TypeScript, and React development. Specialized in Asterisk phone system integrations, CRM/BPM solutions with Odoo and Jira, bot development using PHP/Laravel, and e-commerce UI optimization.
 
-👉 [Read my full bio](https://uchkunrakhimov.com/)
-
 ### Open Source Contributions
 
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped): Enhanced type definitions for [@types/asterisk-manager](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982)
