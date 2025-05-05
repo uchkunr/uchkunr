@@ -8,6 +8,17 @@ Software Engineer with 3+ years of experience in Node.js, TypeScript, and React 
 
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped): Enhanced type definitions for [@types/asterisk-manager](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982)
 
+### 📦 My Homebrew Tool — `ghclone`
+
+A lightweight CLI script to clone GitHub repositories faster via a simplified command.
+
+**Install via Homebrew:**
+
+```bash
+brew tap uchkunrakhimow/ghclone
+brew install ghclone
+```
+
 ### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FCDC00?logo=javascript&logoColor=black)
