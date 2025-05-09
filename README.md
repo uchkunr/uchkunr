@@ -10,8 +10,6 @@ Software Engineer with 3+ years of experience building scalable web applications
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | **@types/asterisk-manager** | Enhanced and published TypeScript declaration files for the Asterisk Manager library to the DefinitelyTyped repository | [View PR](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982) |
 
----
-
 ### 📦 Personal Projects
 
 | Project     | Description                                                                                                   | Link                                                              |
