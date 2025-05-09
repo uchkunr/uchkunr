@@ -2,22 +2,21 @@
 
 ### About me
 
-Software Engineer with 3+ years of experience in Node.js, TypeScript, and React development. Specialized in Asterisk phone system integrations, CRM/BPM solutions with Odoo and Jira, bot development using PHP/Laravel, and e-commerce UI optimization.
+Software Engineer with 3+ years of experience building scalable web applications and backend systems using Node.js, TypeScript, and React. Proven track record delivering production-ready solutions — from CRM platforms and telephony integrations to secure WiFi portals and customized support systems. Skilled in working across the full stack, covering everything from API design and authentication flows to real-time data processing and UI optimization. Committed to clean architecture, performance, and solving complex engineering problems in dynamic, team-driven environments.
 
-### Open Source Contributions
+### 🛠 Open Source Contributions
 
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped): Enhanced type definitions for [@types/asterisk-manager](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982)
+| Project                     | Description                                                                                                            | Link                                                                     |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **@types/asterisk-manager** | Enhanced and published TypeScript declaration files for the Asterisk Manager library to the DefinitelyTyped repository | [View PR](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982) |
 
-### 📦 My Homebrew Tool — `ghclone`
+---
 
-A lightweight CLI script to clone GitHub repositories faster via a simplified command.
+### 📦 Personal Projects
 
-**Install via Homebrew:**
-
-```bash
-brew tap uchkunrakhimow/ghclone
-brew install ghclone
-```
+| Project     | Description                                                                                                   | Link                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **ghclone** | A lightweight CLI tool to simplify and speed up cloning GitHub repositories. Published as a Homebrew formula. | [GitHub Repo](https://github.com/uchkunrakhimow/homebrew-ghclone) |
 
 ### Tech Stack
 
