@@ -6,42 +6,15 @@ Software Engineer with 3+ years of experience building scalable web applications
 
 ### 🛠 Open Source Contributions
 
-<table>
-  <thead>
-    <tr>
-      <th style="width: 200px;">Project</th>
-      <th style="width: 500px;">Description</th>
-      <th style="width: 200px;">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>@types/asterisk-manager</strong></td>
-      <td>Enhanced and published TypeScript declaration files for the Asterisk Manager library to the DefinitelyTyped repository</td>
-      <td><a href="https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982">View PR</a></td>
-    </tr>
-  </tbody>
-</table>
-
+| Project                     | Description                                                                                                         | Link                                                                 |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **@types/asterisk-manager** | Enhanced and published TypeScript declaration files for the Asterisk Manager library to the DefinitelyTyped repo   | [View PR](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982) |
 
 ### 📦 Personal Projects
 
-<table>
-  <thead>
-    <tr>
-      <th style="width: 200px;">Project</th>
-      <th style="width: 500px;">Description</th>
-      <th style="width: 200px;">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>ghclone</strong></td>
-      <td>A lightweight CLI tool to simplify and speed up cloning GitHub repositories. Published as a Homebrew formula.</td>
-      <td><a href="https://github.com/uchkunrakhimow/homebrew-ghclone">GitHub Repo</a></td>
-    </tr>
-  </tbody>
-</table>
+| Project     | Description                                                                                                  | Link                                                                 |
+|-------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **ghclone** | A lightweight CLI tool to simplify and speed up cloning GitHub repositories. Published as a Homebrew formula | [GitHub Repo](https://github.com/uchkunrakhimow/homebrew-ghclone)    |
 
 
 ### Tech Stack
