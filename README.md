@@ -9,6 +9,8 @@ Software Engineer with 3+ years of experience building scalable web applications
 | Project                     | Description                                                                                                         | Link                                                                 |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | **@types/asterisk-manager** | Enhanced and published TypeScript declaration files for the Asterisk Manager library to the DefinitelyTyped repo   | [View PR](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982) |
+| **Chatwoot**                | Added support for Telegram `video_note` (circular video) messages in their incoming message service                 | [View PR](https://github.com/chatwoot/chatwoot/pull/11504)          |
+
 
 ### 📦 Personal Projects
 
