@@ -28,5 +28,6 @@ Full-stack Software Engineer with experience delivering scalable, user-centric w
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/uchkunrakhimov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin-in&logoColor=white)](https://linkedin.com/in/uchkun-rakhimov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:uchkunrakhimov@gmail.com)
+[![CV](https://img.shields.io/badge/CV-4285F4?logo=google&logoColor=white)](https://docs.google.com/document/d/1urFr8PbkJc7hbxIc53rLXC0qdW0sCjIwkt84ONxhhFY/edit?tab=t.0)
