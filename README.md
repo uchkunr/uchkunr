@@ -2,7 +2,7 @@
 
 ### About me
 
-Software Engineer with 3+ years of experience building scalable web applications and backend systems using Node.js, TypeScript, and React. Proven track record delivering production-ready solutions — from CRM platforms and telephony integrations to secure WiFi portals and customized support systems. Skilled in working across the full stack, covering everything from API design and authentication flows to real-time data processing and UI optimization. Committed to clean architecture, performance, and solving complex engineering problems in dynamic, team-driven environments.
+Full-stack Software Engineer with experience delivering scalable, user-centric web applications across logistics, CRM, and telecom sectors. I build robust back-end systems, clean front-end interfaces, and integrate real-time tools like Asterisk. Passionate about clean architecture, performance, and solving real-world problems with elegant code.
 
 ### 🛠 Open Source Contributions
 
