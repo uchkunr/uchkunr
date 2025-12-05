@@ -11,8 +11,15 @@ Backend Engineer building scalable systems with Node.js, TypeScript, and modern 
 ![Node.js](https://img.shields.io/badge/-Node.js-60B148?logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white)
 ![React](https://img.shields.io/badge/-React-58C4DC?logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 
 ### Let's Connect!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:uchkunrakhimov@gmail.com)
 [![CV](https://img.shields.io/badge/CV-4285F4?logo=google&logoColor=white)](https://docs.google.com/document/d/1urFr8PbkJc7hbxIc53rLXC0qdW0sCjIwkt84ONxhhFY/edit?tab=t.0)
+[![X](https://img.shields.io/badge/x-1DA1F2?logo=x&logoColor=white)](https://x.com/uchkunrakhimov)
