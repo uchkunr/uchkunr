@@ -18,8 +18,11 @@ Backend Engineer building scalable systems with Node.js, TypeScript, and modern 
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 
+### CV
+
+[![CV](https://img.shields.io/badge/CV-4285F4?logo=google&logoColor=white)](https://docs.google.com/document/d/1urFr8PbkJc7hbxIc53rLXC0qdW0sCjIwkt84ONxhhFY/edit?tab=t.0)
+
 ### Let's Connect!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:uchkunrakhimov@gmail.com)
-[![CV](https://img.shields.io/badge/CV-4285F4?logo=google&logoColor=white)](https://docs.google.com/document/d/1urFr8PbkJc7hbxIc53rLXC0qdW0sCjIwkt84ONxhhFY/edit?tab=t.0)
 [![X](https://img.shields.io/badge/x-1DA1F2?logo=x&logoColor=white)](https://x.com/uchkunrakhimov)
