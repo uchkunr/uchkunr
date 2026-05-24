@@ -1,1 +1,1 @@
-Currently working on [Carlink](https://github.com/carlink-inc), an auto transport management platform. Read [my blog](https://uchkun.io/blog), follow me [on Bluesky](https://bsky.app/profile/uchkun.io).
+Backend engineer, open to new opportunities. Read [my blog](https://uchkun.io/blog), follow me [on Bluesky](https://bsky.app/profile/uchkun.io).
