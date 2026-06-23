@@ -1,1 +1,1 @@
-Backend engineer, open to new opportunities. Read [my blog](https://uchkun.io/blog), follow me [on Bluesky](https://bsky.app/profile/uchkun.io).
+<img src="https://readme-typing-svg.demolab.com?font=CodeNewRoman+Nerd+Font&weight=500&size=18&pause=1000&color=4AF626&width=500&lines=Hi%2C+I'm+Uchkun.;I+design+high-throughput+backend+architectures.;Focused+on+distributed+systems+%26+database+scale." alt="Typing SVG" />
