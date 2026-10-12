@@ -1,1 +1,23 @@
-<img src="https://readme-typing-svg.demolab.com?font=CodeNewRoman+Nerd+Font&weight=500&size=18&pause=1000&color=4AF626&width=500&lines=Hi%2C+I'm+Uchkun.;I+design+high-throughput+backend+architectures.;Focused+on+distributed+systems+%26+database+scale." alt="Typing SVG" />
+<!-- projects:start -->
+| Project | What it does | Updated |
+| --- | --- | --- |
+| [pgmq-ts](https://github.com/uchkunr/pgmq-ts) | Type-safe PGMQ (Postgres Message Queue) client for Bun. Every operation can join your own transaction. | Oct 12, 2026 |
+| [yardlens](https://github.com/uchkunr/yardlens) | Camera-based yard monitoring: YOLO detection, ByteTrack tracking, line counting and a live Next.js dashboard | Oct 12, 2026 |
+| [traintracker](https://github.com/uchkunr/traintracker) | Map and timetable for Uzbekistan's trains. Positions are estimated from the schedule; route search, station boards, Uzbek and English. Next.js + MapLibre. | Oct 12, 2026 |
+| [hikvision-best-practices](https://github.com/uchkunr/hikvision-best-practices) | A comprehensive developer reference and integration guide for Hikvision's ISAPI protocol (HTTP Digest, Access Control, Events, Video, and PTZ). | Oct 12, 2026 |
+| [unifi-best-practices](https://github.com/uchkunr/unifi-best-practices) | A comprehensive developer reference and integration guide for Ubiquiti's UniFi APIs (Cloud, Local, and Connector Proxy). | Oct 12, 2026 |
+| [startup-starter-kit](https://github.com/uchkunr/startup-starter-kit) | Production-ready Turborepo starter kit with Next.js 16 (shadcn/ui, Tailwind v4, i18n) and Express.js 5 (Prisma 7, Argon2, Jose, Zod) | Oct 4, 2026 |
+<!-- projects:end -->
+
+<!-- upstream:start -->
+| Upstream | Pull request | Stars | Merged |
+| --- | --- | --- | --- |
+| [open-circle/valibot](https://github.com/open-circle/valibot) | [Add Uzbek (Latin) locale](https://github.com/open-circle/valibot/pull/1452) | 9k | May 5, 2026 |
+| [victrme/Bonjourr](https://github.com/victrme/Bonjourr) | [New Language: Uzbek!](https://github.com/victrme/Bonjourr/pull/812) | 2.1k | May 1, 2026 |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | [Add edge case tests for boundary values](https://github.com/colinhacks/zod/pull/5601) | 44.1k | Jan 25, 2026 |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | [Add map support to Uzbek locale](https://github.com/colinhacks/zod/pull/5599) | 44.1k | Jan 25, 2026 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Add support for telegram circular video messages](https://github.com/chatwoot/chatwoot/pull/11504) | 37.7k | Jun 10, 2025 |
+| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [@types/asterisk-manager](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982) | 51.4k | Feb 20, 2025 |
+<!-- upstream:end -->
+
+[uchkun.io](https://uchkun.io) · [LinkedIn](https://www.linkedin.com/in/uchkunio) · [X](https://twitter.com/uchkunrakhimov)
