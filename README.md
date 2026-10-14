@@ -1,9 +1,9 @@
 <!-- projects:start -->
 | Project | What it does | Updated |
 | --- | --- | --- |
+| [yardlens](https://github.com/uchkunr/yardlens) | Camera-based yard monitoring: YOLO detection, ByteTrack tracking, line counting and a live Next.js dashboard | Oct 14, 2026 |
 | [fast-ncu](https://github.com/uchkunr/fast-ncu) | A fast npm-check-updates alternative for the common case. Checks package.json against npm's few-KB /latest endpoint in parallel, with a 5-minute local cache. | Oct 13, 2026 |
 | [pgmq-ts](https://github.com/uchkunr/pgmq-ts) | Type-safe PGMQ (Postgres Message Queue) client for Bun. Every operation can join your own transaction. | Oct 12, 2026 |
-| [yardlens](https://github.com/uchkunr/yardlens) | Camera-based yard monitoring: YOLO detection, ByteTrack tracking, line counting and a live Next.js dashboard | Oct 12, 2026 |
 | [traintracker](https://github.com/uchkunr/traintracker) | Map and timetable for Uzbekistan's trains. Positions are estimated from the schedule; route search, station boards, Uzbek and English. Next.js + MapLibre. | Oct 12, 2026 |
 | [hikvision-best-practices](https://github.com/uchkunr/hikvision-best-practices) | A comprehensive developer reference and integration guide for Hikvision's ISAPI protocol (HTTP Digest, Access Control, Events, Video, and PTZ). | Oct 12, 2026 |
 | [unifi-best-practices](https://github.com/uchkunr/unifi-best-practices) | A comprehensive developer reference and integration guide for Ubiquiti's UniFi APIs (Cloud, Local, and Connector Proxy). | Oct 12, 2026 |
@@ -16,7 +16,7 @@
 | [victrme/Bonjourr](https://github.com/victrme/Bonjourr) | [New Language: Uzbek!](https://github.com/victrme/Bonjourr/pull/812) | 2.1k | May 1, 2026 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | [Add edge case tests for boundary values](https://github.com/colinhacks/zod/pull/5601) | 44.1k | Jan 25, 2026 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | [Add map support to Uzbek locale](https://github.com/colinhacks/zod/pull/5599) | 44.1k | Jan 25, 2026 |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Add support for telegram circular video messages](https://github.com/chatwoot/chatwoot/pull/11504) | 37.7k | Jun 10, 2025 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Add support for telegram circular video messages](https://github.com/chatwoot/chatwoot/pull/11504) | 37.8k | Jun 10, 2025 |
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [@types/asterisk-manager](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982) | 51.4k | Feb 20, 2025 |
 <!-- upstream:end -->
 
