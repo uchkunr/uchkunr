@@ -16,7 +16,7 @@
 | [victrme/Bonjourr](https://github.com/victrme/Bonjourr) | [New Language: Uzbek!](https://github.com/victrme/Bonjourr/pull/812) | 2.1k | May 1, 2026 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | [Add edge case tests for boundary values](https://github.com/colinhacks/zod/pull/5601) | 44.2k | Jan 25, 2026 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | [Add map support to Uzbek locale](https://github.com/colinhacks/zod/pull/5599) | 44.2k | Jan 25, 2026 |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Add support for telegram circular video messages](https://github.com/chatwoot/chatwoot/pull/11504) | 38.4k | Jun 10, 2025 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Add support for telegram circular video messages](https://github.com/chatwoot/chatwoot/pull/11504) | 38.5k | Jun 10, 2025 |
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [@types/asterisk-manager](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/71982) | 51.5k | Feb 20, 2025 |
 <!-- upstream:end -->
 
